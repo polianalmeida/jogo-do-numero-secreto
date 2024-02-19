@@ -149,4 +149,9 @@ button:disabled {
     .container__informacoes {
         padding: 1rem
     }
+
+    .rodape {
+        width: 100%;
+        margin-bottom: 0;
+    }
 }
